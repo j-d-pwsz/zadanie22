@@ -1,3 +1,5 @@
 11:52 24.01.2025	Jacek Diakun	gałąź: main
 12:05 24.01.2025	Patryk Sztrauch
 12:09 24.01.2025	Patryk Sztrauch	(feature-trzecia_linia)
+12:44 24.01.2025	Patryk Sztrauch	(feature-czwarta_linia)
+13:14 24.01.2025	Patryk sztrauch
